@@ -15,7 +15,7 @@
 
 ---
 
-## 📦 Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **Scapy** – for packet sniffing and crafting
