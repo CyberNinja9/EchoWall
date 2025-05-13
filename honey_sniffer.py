@@ -9,7 +9,7 @@ from colorama import Fore, Style
 # === Configuration ===
 PING_RATE_THRESHOLD = 3
 TIME_WINDOW = 5
-BOT_TOKEN = '8185602548:AAH__ML5sX4yqBtKjOH9cePl4a2T4iuUF5A'
+BOT_TOKEN = '9195602548qBtKjOH9ceLt4a2T4iukF5A'
 CHAT_ID = '6945286234'
 
 # === Get Local IP (not 127.0.0.1) ===
