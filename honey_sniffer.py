@@ -9,8 +9,8 @@ from colorama import Fore, Style
 # === Configuration ===
 PING_RATE_THRESHOLD = 3
 TIME_WINDOW = 5
-BOT_TOKEN = '9195602548qBtKjOH9ceLt4a2T4iukF5A'
-CHAT_ID = '6945286234'
+BOT_TOKEN = 'yourbottoken'
+CHAT_ID = 'yourchatid'
 
 # === Get Local IP (not 127.0.0.1) ===
 def get_local_ip():
