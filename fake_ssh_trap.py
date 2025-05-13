@@ -9,8 +9,8 @@ import requests
 HOST = '0.0.0.0'
 PORT = 22
 BANNER = "SSH-2.0 Hi Hacker. Your IP is already logged. Proceed at your own risk."
-BOT_TOKEN = '8185602548:AAH__ML5sX4yqBtKjOH9cePl4a2T4iuUF5A'
-CHAT_ID = '6945286234'
+BOT_TOKEN = 'yourbot_token'
+CHAT_ID = 'yourchatid'
 
 # === Get GeoIP info ===
 def get_geoip(ip):
